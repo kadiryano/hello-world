@@ -1,3 +1,2 @@
 # hello-world
-This is how i met git
-My first repository
+Ne bu la ne bu
